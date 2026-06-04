@@ -1,0 +1,20 @@
+# Tool output
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Generated suggestions (review-only artifact)
+config/column_mappings.suggested.yaml
+
+# Temp Excel lock files
+~$*.xlsx

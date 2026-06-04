@@ -27,3 +27,6 @@ line-length = 100
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.setuptools.package-data]
+inventory_gap_analyzer = ["templates/*.j2"]

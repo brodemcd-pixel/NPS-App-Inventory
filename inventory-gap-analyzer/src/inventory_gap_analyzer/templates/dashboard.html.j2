@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Inventory Gap Analyzer — Dashboard</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --panel: #1b232c;
+    --panel-2: #232d38;
+    --text: #e6edf3;
+    --muted: #93a1b0;
+    --border: #2d3b48;
+    --accent: #4a7fb5;
+    --c0: #b3261e;   /* 0%  red    */
+    --c50: #c8a217;  /* 50% yellow */
+    --c100: #2e7d4f; /* 100% green */
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f3f5f7;
+      --panel: #ffffff;
+      --panel-2: #eef1f4;
+      --text: #1b232c;
+      --muted: #5a6b7b;
+      --border: #d4dce3;
+      --accent: #2f5d8a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg); color: var(--text); line-height: 1.45;
+  }
+  header {
+    padding: 18px 24px; border-bottom: 1px solid var(--border);
+    background: var(--panel); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;
+  }
+  header h1 { font-size: 18px; margin: 0; font-weight: 600; }
+  header .sub { color: var(--muted); font-size: 13px; }
+  main { padding: 24px; max-width: 1400px; margin: 0 auto; }
+  section { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 18px 20px; margin-bottom: 24px; }
+  section h2 { font-size: 15px; margin: 0 0 14px; font-weight: 600; }
+  .btn {
+    background: var(--accent); color: #fff; border: none; border-radius: 6px;
+    padding: 7px 12px; font-size: 13px; cursor: pointer;
+  }
+  .btn:hover { opacity: 0.9; }
+  .toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  table { border-collapse: collapse; width: 100%; font-size: 13px; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 600; }
+  .heatmap { overflow-x: auto; }
+  .heatcell { color: #fff; text-align: center; font-size: 11px; padding: 4px 6px; border-radius: 3px; white-space: nowrap; }
+  .heatcell.unmapped { background: #44505c; color: var(--muted); }
+  .rowhead { font-weight: 600; white-space: nowrap; position: sticky; left: 0; background: var(--panel); }
+  select { background: var(--panel-2); color: var(--text); border: 1px solid var(--border); border-radius: 6px; padding: 6px 8px; font-size: 13px; }
+  .bar { height: 14px; background: var(--panel-2); border-radius: 3px; overflow: hidden; min-width: 80px; }
+  .bar > span { display: block; height: 100%; }
+  .pill { display: inline-block; padding: 1px 7px; border-radius: 999px; font-size: 11px; }
+  .pill.gap { background: rgba(179,38,30,0.2); color: #ff8a80; }
+  .pill.sparse { background: rgba(200,162,23,0.2); color: #e8c44a; }
+  .pill.ok { background: rgba(46,125,79,0.2); color: #7bd49b; }
+  ul.compact { margin: 4px 0; padding-left: 18px; }
+  .muted { color: var(--muted); }
+  .grid2 { display: grid; grid-template-columns: 1fr; gap: 18px; }
+  @media (min-width: 900px) { .grid2 { grid-template-columns: 1fr 1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Inventory Gap Analyzer</h1>
+    <div class="sub">Application inventory coverage &amp; structural gap report</div>
+  </div>
+  <div class="sub" id="summary"></div>
+</header>
+<main>
+  <section>
+    <h2>Coverage Overview (population rate by bureau &times; field)</h2>
+    <div class="toolbar">
+      <button class="btn" onclick="exportMatrixCsv()">Export coverage matrix CSV</button>
+      <button class="btn" onclick="exportGapsCsv()">Export record gaps CSV</button>
+    </div>
+    <div class="heatmap"><table id="heatmap"></table></div>
+    <p class="muted" style="font-size:12px;margin-top:10px;">
+      Color scale: <span class="heatcell" style="background:var(--c0)">0%</span>
+      <span class="heatcell" style="background:var(--c50)">50%</span>
+      <span class="heatcell" style="background:var(--c100)">100%</span>
+      &middot; <span class="heatcell unmapped">unmapped</span>
+    </p>
+  </section>
+
+  <div class="grid2">
+    <section>
+      <h2>Bureau drill-down</h2>
+      <select id="bureauSelect" onchange="renderBureau()"></select>
+      <div id="bureauDetail"></div>
+    </section>
+    <section>
+      <h2>Field drill-down</h2>
+      <select id="fieldSelect" onchange="renderField()"></select>
+      <div id="fieldDetail"></div>
+    </section>
+  </div>
+</main>
+
+<script id="payload" type="application/json">{{ data_json | safe }}</script>
+<script>
+  const DATA = JSON.parse(document.getElementById("payload").textContent);
+  const BUREAUS = DATA.bureaus;
+  const FIELDS = DATA.field_names;
+
+  function colorFor(rate) {
+    // interpolate red -> yellow -> green
+    function lerp(a, b, t) { return Math.round(a + (b - a) * t); }
+    const red = [179, 38, 30], yellow = [200, 162, 23], green = [46, 125, 79];
+    let c;
+    if (rate <= 0.5) { const t = rate / 0.5; c = [lerp(red[0],yellow[0],t),lerp(red[1],yellow[1],t),lerp(red[2],yellow[2],t)]; }
+    else { const t = (rate - 0.5) / 0.5; c = [lerp(yellow[0],green[0],t),lerp(yellow[1],green[1],t),lerp(yellow[2],green[2],t)]; }
+    return `rgb(${c[0]},${c[1]},${c[2]})`;
+  }
+
+  function fieldOf(bureau, name) { return bureau.fields.find(f => f.canonical === name); }
+
+  // Summary
+  (function(){
+    const totalRecords = BUREAUS.reduce((s,b)=>s+b.total_records,0);
+    const gaps = BUREAUS.reduce((s,b)=>s+b.structural_gaps.length,0);
+    document.getElementById("summary").textContent =
+      `${BUREAUS.length} bureaus · ${totalRecords} records · ${gaps} structural gaps`;
+  })();
+
+  // Heatmap
+  (function(){
+    const t = document.getElementById("heatmap");
+    let head = "<tr><th class='rowhead'>Bureau</th>";
+    FIELDS.forEach(f => head += `<th title="${f}">${f}</th>`);
+    head += "</tr>";
+    let body = "";
+    BUREAUS.forEach(b => {
+      body += `<tr><td class="rowhead">${b.bureau}<br><span class="muted" style="font-weight:400">${b.total_records} rec</span></td>`;
+      FIELDS.forEach(name => {
+        const fc = fieldOf(b, name);
+        if (!fc || !fc.mapped) { body += `<td><div class="heatcell unmapped">—</div></td>`; }
+        else {
+          const pct = Math.round(fc.rate * 100);
+          body += `<td><div class="heatcell" style="background:${colorFor(fc.rate)}" title="${fc.populated}/${fc.total}">${pct}%</div></td>`;
+        }
+      });
+      body += "</tr>";
+    });
+    t.innerHTML = head + body;
+  })();
+
+  // Bureau select
+  (function(){
+    const s = document.getElementById("bureauSelect");
+    BUREAUS.forEach((b,i)=> s.add(new Option(b.bureau, i)));
+    renderBureau();
+  })();
+
+  function renderBureau() {
+    const b = BUREAUS[document.getElementById("bureauSelect").value];
+    let html = `<p class="muted" style="font-size:12px">Source: ${b.filename} · sheet: ${b.sheet_name} · ${b.total_records} records</p>`;
+    html += "<table><tr><th>Field</th><th>Source column</th><th>Rate</th><th>Status</th></tr>";
+    b.fields.forEach(f => {
+      let status = `<span class="pill ok">ok</span>`;
+      if (f.structural_gap) status = `<span class="pill gap">structural gap</span>`;
+      else if (f.sparse) status = `<span class="pill sparse">sparse</span>`;
+      else if (!f.mapped) status = `<span class="muted">unmapped</span>`;
+      const rate = f.mapped ? Math.round(f.rate*100)+"%" : "—";
+      html += `<tr><td>${f.canonical}</td><td class="muted">${f.source_column||"—"}</td><td>${rate}</td><td>${status}</td></tr>`;
+    });
+    html += "</table>";
+    html += `<p style="margin-top:12px"><strong>Structural gaps:</strong> ${b.structural_gaps.length ? b.structural_gaps.join(", ") : '<span class="muted">none</span>'}</p>`;
+    html += `<p><strong>Sparse fields:</strong> ${b.sparse_fields.length ? b.sparse_fields.join(", ") : '<span class="muted">none</span>'}</p>`;
+    html += `<p><strong>Unmapped source columns:</strong> ${b.unmapped_source_columns.length ? b.unmapped_source_columns.join(", ") : '<span class="muted">none</span>'}</p>`;
+    document.getElementById("bureauDetail").innerHTML = html;
+  }
+
+  // Field select
+  (function(){
+    const s = document.getElementById("fieldSelect");
+    FIELDS.forEach(f => s.add(new Option(f, f)));
+    renderField();
+  })();
+
+  function renderField() {
+    const name = document.getElementById("fieldSelect").value;
+    let html = "<table><tr><th>Bureau</th><th>Coverage</th><th>Rate</th></tr>";
+    BUREAUS.forEach(b => {
+      const fc = fieldOf(b, name);
+      const rate = fc && fc.mapped ? fc.rate : 0;
+      const label = fc && fc.mapped ? Math.round(rate*100)+"%" : "unmapped";
+      const color = fc && fc.mapped ? colorFor(rate) : "#44505c";
+      html += `<tr><td>${b.bureau}</td><td><div class="bar"><span style="width:${Math.round(rate*100)}%;background:${color}"></span></div></td><td>${label}</td></tr>`;
+    });
+    html += "</table>";
+    document.getElementById("fieldDetail").innerHTML = html;
+  }
+
+  // CSV export
+  function downloadCsv(filename, rows) {
+    const csv = rows.map(r => r.map(c => {
+      const s = String(c == null ? "" : c);
+      return /[",\n]/.test(s) ? '"' + s.replace(/"/g,'""') + '"' : s;
+    }).join(",")).join("\n");
+    const blob = new Blob([csv], {type: "text/csv"});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url; a.download = filename; a.click();
+    URL.revokeObjectURL(url);
+  }
+
+  function exportMatrixCsv() {
+    const rows = [["bureau","filename","total_records", ...FIELDS]];
+    BUREAUS.forEach(b => {
+      const row = [b.bureau, b.filename, b.total_records];
+      FIELDS.forEach(name => { const fc = fieldOf(b,name); row.push(fc && fc.mapped ? fc.rate : ""); });
+      rows.push(row);
+    });
+    downloadCsv("coverage_matrix.csv", rows);
+  }
+
+  function exportGapsCsv() {
+    const rows = [["bureau","filename","field","mapped","source_column","populated","total","rate","structural_gap","sparse"]];
+    BUREAUS.forEach(b => b.fields.forEach(f => {
+      rows.push([b.bureau,b.filename,f.canonical,f.mapped,f.source_column||"",f.populated,f.total,f.rate,f.structural_gap,f.sparse]);
+    }));
+    downloadCsv("record_gaps.csv", rows);
+  }
+</script>
+</body>
+</html>
