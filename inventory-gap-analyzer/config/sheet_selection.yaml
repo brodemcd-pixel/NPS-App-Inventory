@@ -1,0 +1,3 @@
+# Per-workbook sheet name overrides
+# Key: workbook filename (basename only), Value: sheet name to use
+BLM_Application_Hosting_Inventory.xlsx: Technologies

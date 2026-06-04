@@ -1,0 +1,4 @@
+# Human-approved column mappings
+# Run: inventory-gap-analyzer suggest-mappings --input-dir /path/to/workbooks
+# Then review config/column_mappings.suggested.yaml and promote to this file
+mappings: {}

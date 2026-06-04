@@ -1,0 +1,147 @@
+fields:
+  - name: application_name
+    type: string
+    required: true
+    researchable: false
+    null_ok: false
+    synonyms: ["app name", "application", "system name", "name", "app"]
+
+  - name: description
+    type: string
+    required: true
+    researchable: true
+    null_ok: false
+    synonyms: ["desc", "summary", "about", "purpose", "overview"]
+
+  - name: application_type
+    type: string
+    required: true
+    researchable: true
+    null_ok: false
+    synonyms: ["app type", "type", "category", "system type"]
+
+  - name: url
+    type: string
+    required: false
+    researchable: true
+    null_ok: true
+    synonyms: ["web url", "website", "link", "application url", "prod url", "production url"]
+
+  - name: public_facing
+    type: boolean
+    required: true
+    researchable: true
+    null_ok: false
+    synonyms: ["public", "publicly accessible", "internet facing", "external"]
+
+  - name: hosting_type
+    type: string
+    required: true
+    researchable: true
+    null_ok: false
+    synonyms: ["hosting", "deployment type", "infrastructure", "host type"]
+
+  - name: cloud_provider
+    type: string
+    required: false
+    researchable: true
+    null_ok: true
+    synonyms: ["cloud", "provider", "csp", "cloud service provider"]
+
+  - name: operating_system
+    type: string
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["os", "platform", "operating env"]
+
+  - name: primary_language
+    type: string
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["language", "tech stack", "programming language", "dev language"]
+
+  - name: database
+    type: string
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["db", "database type", "data store", "rdbms"]
+
+  - name: application_owner
+    type: string
+    required: true
+    researchable: false
+    null_ok: false
+    synonyms: ["owner", "app owner", "system owner", "poc", "point of contact"]
+
+  - name: application_owner_email
+    type: string
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["owner email", "contact email", "email", "poc email"]
+
+  - name: bureau
+    type: string
+    required: true
+    researchable: false
+    null_ok: false
+    synonyms: ["agency", "organization", "org", "bureau/office"]
+
+  - name: fisma_level
+    type: string
+    required: true
+    researchable: false
+    null_ok: false
+    synonyms: ["fisma", "security level", "impact level", "fips level"]
+
+  - name: fisma_id
+    type: string
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["fisma system id", "system id", "fisma identifier"]
+
+  - name: ato_status
+    type: string
+    required: true
+    researchable: false
+    null_ok: false
+    synonyms: ["ato", "authorization status", "authority to operate", "accreditation"]
+
+  - name: ato_system
+    type: string
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["ato system name", "authorizing system", "ato boundary"]
+
+  - name: user_count
+    type: integer
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["users", "num users", "number of users", "user base", "active users"]
+
+  - name: annual_cost
+    type: number
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["cost", "annual cost", "yearly cost", "budget", "contract cost"]
+
+  - name: consolidatedFederalSupport
+    type: boolean
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["federal support", "consolidated support", "shared services"]
+
+  - name: retirement_date
+    type: date
+    required: false
+    researchable: false
+    null_ok: true
+    synonyms: ["retire date", "decommission date", "end of life", "eol date", "sunset date"]
