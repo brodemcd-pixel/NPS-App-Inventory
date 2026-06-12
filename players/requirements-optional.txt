@@ -1,0 +1,9 @@
+# Heavy / optional dependencies. The platform runs without these:
+#  - sentence-transformers: e5-small encoder (PLAYERS_ENCODER=e5); lite encoder otherwise
+#  - umap-learn: UMAP 2-D projection; PCA fallback otherwise
+#  - spacy: sentence segmentation for trait extraction; regex fallback otherwise
+#  - weasyprint: PDF export; endpoint returns 501 otherwise (XLSX always available)
+sentence-transformers>=2.7
+umap-learn>=0.5.5
+spacy>=3.7
+weasyprint>=61
