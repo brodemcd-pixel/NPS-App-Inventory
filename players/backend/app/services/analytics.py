@@ -5,7 +5,7 @@ from __future__ import annotations
 from datetime import datetime, timedelta, timezone
 
 import numpy as np
-from sqlalchemy import func, select
+from sqlalchemy import func, literal_column, select
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from backend.app.models import Player, Production, UsageEvent
@@ -113,7 +113,9 @@ async def usage_summary(session: AsyncSession, days: int = 30) -> dict:
             select(UsageEvent.payload["player_id"].as_integer(), func.count())
             .where(UsageEvent.created_at >= since,
                    UsageEvent.event_type == "player_view")
-            .group_by(UsageEvent.payload["player_id"].as_integer())
+            # GROUP BY 1: the JSON path renders as a fresh bind param each time, which
+            # Postgres would reject as a non-grouped expression.
+            .group_by(literal_column("1"))
             .order_by(func.count().desc())
             .limit(5)
         )
@@ -163,8 +165,8 @@ async def usage_summary(session: AsyncSession, days: int = 30) -> dict:
             )
             .where(UsageEvent.created_at >= since,
                    UsageEvent.event_type == "question_asked")
-            .group_by(func.date_trunc("day", UsageEvent.created_at))
-            .order_by(func.date_trunc("day", UsageEvent.created_at))
+            .group_by(literal_column("1"))
+            .order_by(literal_column("1"))
         )
     ).all()
 

@@ -1,0 +1,514 @@
+[
+  {
+    "team": "Arizona Cardinals",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Boggs",
+    "coaching_tree": "Leach"
+  },
+  {
+    "team": "Arizona Cardinals",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Jarrett",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Atlanta Falcons",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Lincoln Eberle",
+    "coaching_tree": "Kelly"
+  },
+  {
+    "team": "Atlanta Falcons",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Dan Slocum",
+    "coaching_tree": "Fangio"
+  },
+  {
+    "team": "Baltimore Ravens",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Rourke",
+    "coaching_tree": "Leach"
+  },
+  {
+    "team": "Baltimore Ravens",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Steve Pruitt",
+    "coaching_tree": "Saban"
+  },
+  {
+    "team": "Buffalo Bills",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Boggs",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Buffalo Bills",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Greg Aldrich",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Carolina Panthers",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Lincoln Knox",
+    "coaching_tree": "Kelly"
+  },
+  {
+    "team": "Carolina Panthers",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Hal Drummond",
+    "coaching_tree": "Fangio"
+  },
+  {
+    "team": "Chicago Bears",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Norv Tubbs",
+    "coaching_tree": "Shanahan"
+  },
+  {
+    "team": "Chicago Bears",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Boggs",
+    "coaching_tree": "Saban"
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Kirby Fitch",
+    "coaching_tree": "Shanahan"
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Tom Eberle",
+    "coaching_tree": "Fangio"
+  },
+  {
+    "team": "Cleveland Browns",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Tom Mertz",
+    "coaching_tree": "Kelly"
+  },
+  {
+    "team": "Cleveland Browns",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Joe Tubbs",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "Dallas Cowboys",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Bill Carver",
+    "coaching_tree": "Leach"
+  },
+  {
+    "team": "Dallas Cowboys",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Wade Carver",
+    "coaching_tree": "Saban"
+  },
+  {
+    "team": "Denver Broncos",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Tom Pruitt",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Denver Broncos",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Wade Tubbs",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Detroit Lions",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Steve Fitch",
+    "coaching_tree": "Shanahan"
+  },
+  {
+    "team": "Detroit Lions",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Hal Veach",
+    "coaching_tree": "Saban"
+  },
+  {
+    "team": "Green Bay Packers",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lane Boggs",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Green Bay Packers",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Dan Veach",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Houston Texans",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Mike Jarrett",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Houston Texans",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Chip Rourke",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Indianapolis Colts",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Hal Veach",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Indianapolis Colts",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Gus Eberle",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Norv Tubbs",
+    "coaching_tree": "Reid"
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Matt Mertz",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Hal Pruitt",
+    "coaching_tree": "Shanahan"
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Chip Fitch",
+    "coaching_tree": "Saban"
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Lincoln Rourke",
+    "coaching_tree": "Reid"
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Hal Slocum",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Tom Pruitt",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Matt Eberle",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Los Angeles Rams",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Joe Rourke",
+    "coaching_tree": "Reid"
+  },
+  {
+    "team": "Los Angeles Rams",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Steve Rourke",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "Miami Dolphins",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Greg Drummond",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Miami Dolphins",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Rich Tubbs",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "Minnesota Vikings",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Ingles",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Minnesota Vikings",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Pat Eberle",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "New England Patriots",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Mike Hobbs",
+    "coaching_tree": "Reid"
+  },
+  {
+    "team": "New England Patriots",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Matt Boggs",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "New Orleans Saints",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Bill Nolan",
+    "coaching_tree": "Kelly"
+  },
+  {
+    "team": "New Orleans Saints",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Pruitt",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "New York Giants",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Mike Jarrett",
+    "coaching_tree": "Kelly"
+  },
+  {
+    "team": "New York Giants",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Norv Hobbs",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "New York Jets",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Gus Aldrich",
+    "coaching_tree": "Reid"
+  },
+  {
+    "team": "New York Jets",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Bill Ingles",
+    "coaching_tree": "Belichick"
+  },
+  {
+    "team": "Philadelphia Eagles",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Rich Boggs",
+    "coaching_tree": "Leach"
+  },
+  {
+    "team": "Philadelphia Eagles",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Joe Rourke",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Dan Lubbock",
+    "coaching_tree": "Leach"
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Jarrett",
+    "coaching_tree": "Fangio"
+  },
+  {
+    "team": "San Francisco 49ers",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Mike Garrison",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "San Francisco 49ers",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Chip Lubbock",
+    "coaching_tree": "Carroll"
+  },
+  {
+    "team": "Seattle Seahawks",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Bill Osgood",
+    "coaching_tree": "Leach"
+  },
+  {
+    "team": "Seattle Seahawks",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Hal Aldrich",
+    "coaching_tree": "Saban"
+  },
+  {
+    "team": "Tampa Bay Buccaneers",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Chip Ingles",
+    "coaching_tree": "Shanahan"
+  },
+  {
+    "team": "Tampa Bay Buccaneers",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Rich Ingles",
+    "coaching_tree": "Fangio"
+  },
+  {
+    "team": "Tennessee Titans",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Dan Rourke",
+    "coaching_tree": "Shanahan"
+  },
+  {
+    "team": "Tennessee Titans",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Joe Fitch",
+    "coaching_tree": "Saban"
+  },
+  {
+    "team": "Washington Commanders",
+    "season": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Greg Pruitt",
+    "coaching_tree": "McVay"
+  },
+  {
+    "team": "Washington Commanders",
+    "season": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Kirby Mertz",
+    "coaching_tree": "Carroll"
+  }
+]

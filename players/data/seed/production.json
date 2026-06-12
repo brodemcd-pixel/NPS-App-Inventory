@@ -1,0 +1,9011 @@
+[
+  {
+    "player_index": 0,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2019,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2019,
+    "stat_category": "pass_yards",
+    "value": 889.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2019,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2019,
+    "stat_category": "interceptions_thrown",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2019,
+    "stat_category": "rush_yards",
+    "value": -7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2020,
+    "stat_category": "pass_att",
+    "value": 316.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2020,
+    "stat_category": "pass_yards",
+    "value": 1302.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2020,
+    "stat_category": "pass_td",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2020,
+    "stat_category": "interceptions_thrown",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2020,
+    "stat_category": "rush_yards",
+    "value": 74.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 615.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2021,
+    "stat_category": "pass_att",
+    "value": 429.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2021,
+    "stat_category": "pass_yards",
+    "value": 2285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2021,
+    "stat_category": "pass_td",
+    "value": 22.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2021,
+    "stat_category": "interceptions_thrown",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 0,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 91.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2020,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2020,
+    "stat_category": "pass_yards",
+    "value": 887.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2020,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2020,
+    "stat_category": "interceptions_thrown",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2020,
+    "stat_category": "rush_yards",
+    "value": 76.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 616.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2021,
+    "stat_category": "pass_att",
+    "value": 429.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2021,
+    "stat_category": "pass_yards",
+    "value": 2550.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2021,
+    "stat_category": "pass_td",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2021,
+    "stat_category": "interceptions_thrown",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 1,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 269.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2018,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2018,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 2,
+    "season": 2018,
+    "stat_category": "rush_yards",
+    "value": 484.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 2,
+    "season": 2018,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2018,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2018,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2019,
+    "stat_category": "rush_att",
+    "value": 126.0,
+    "team_share_pct": 28.5
+  },
+  {
+    "player_index": 2,
+    "season": 2019,
+    "stat_category": "rush_yards",
+    "value": 544.0,
+    "team_share_pct": 26.0
+  },
+  {
+    "player_index": 2,
+    "season": 2019,
+    "stat_category": "rush_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2019,
+    "stat_category": "receptions",
+    "value": 18.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2019,
+    "stat_category": "rec_yards",
+    "value": 154.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2020,
+    "stat_category": "rush_att",
+    "value": 137.0,
+    "team_share_pct": 30.8
+  },
+  {
+    "player_index": 2,
+    "season": 2020,
+    "stat_category": "rush_yards",
+    "value": 742.0,
+    "team_share_pct": 28.0
+  },
+  {
+    "player_index": 2,
+    "season": 2020,
+    "stat_category": "rush_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 20.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 173.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 672.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2021,
+    "stat_category": "rush_att",
+    "value": 208.0,
+    "team_share_pct": 45.4
+  },
+  {
+    "player_index": 2,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 1170.0,
+    "team_share_pct": 41.0
+  },
+  {
+    "player_index": 2,
+    "season": 2021,
+    "stat_category": "rush_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 32.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 2,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 296.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2020,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 3,
+    "season": 2020,
+    "stat_category": "rush_yards",
+    "value": 533.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 3,
+    "season": 2020,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 697.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2021,
+    "stat_category": "rush_att",
+    "value": 216.0,
+    "team_share_pct": 47.0
+  },
+  {
+    "player_index": 3,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 1357.0,
+    "team_share_pct": 42.4
+  },
+  {
+    "player_index": 3,
+    "season": 2021,
+    "stat_category": "rush_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 34.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 3,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 310.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 4,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 4,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 4,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 34.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 4,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 471.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 4,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 4,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 689.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 4,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 105.0,
+    "team_share_pct": 31.6
+  },
+  {
+    "player_index": 4,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 73.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 4,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 968.0,
+    "team_share_pct": 31.6
+  },
+  {
+    "player_index": 4,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 5,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 5,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 5,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 38.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 5,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 479.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 5,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 5,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 677.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 5,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 103.0,
+    "team_share_pct": 30.9
+  },
+  {
+    "player_index": 5,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 72.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 5,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 991.0,
+    "team_share_pct": 30.9
+  },
+  {
+    "player_index": 5,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2019,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 6,
+    "season": 2019,
+    "stat_category": "receptions",
+    "value": 32.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2019,
+    "stat_category": "rec_yards",
+    "value": 533.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 6,
+    "season": 2019,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 62.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 6,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 40.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 493.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 6,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 635.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 96.0,
+    "team_share_pct": 28.7
+  },
+  {
+    "player_index": 6,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 56.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 6,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 1020.0,
+    "team_share_pct": 28.7
+  },
+  {
+    "player_index": 6,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2019,
+    "stat_category": "targets",
+    "value": 45.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 7,
+    "season": 2019,
+    "stat_category": "receptions",
+    "value": 32.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2019,
+    "stat_category": "rec_yards",
+    "value": 382.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 7,
+    "season": 2019,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 51.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 7,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 489.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 7,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 608.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 71.0,
+    "team_share_pct": 27.2
+  },
+  {
+    "player_index": 7,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 47.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 7,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 548.0,
+    "team_share_pct": 27.2
+  },
+  {
+    "player_index": 7,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 8,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 8,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 684.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 8,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 774.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 9,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 9,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 9,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 684.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 10,
+    "season": 2018,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 10,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 10,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 10,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 608.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2018,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2018,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2018,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2018,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2018,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 30.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2019,
+    "stat_category": "tfl",
+    "value": 7.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2019,
+    "stat_category": "sacks",
+    "value": 4.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2019,
+    "stat_category": "pressures",
+    "value": 26.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 744.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 53.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 15.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 10.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2020,
+    "stat_category": "pressures",
+    "value": 54.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 734.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 53.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 15.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 10.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 11,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 53.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2019,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2019,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2019,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 7.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 4.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2020,
+    "stat_category": "pressures",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 692.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 50.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 9.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 12,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 50.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2019,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2019,
+    "stat_category": "sacks",
+    "value": 2.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2019,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 746.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 54.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 15.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 7.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2020,
+    "stat_category": "pressures",
+    "value": 54.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 722.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 52.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 14.7,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 13,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 52.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2018,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2018,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2018,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2018,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2018,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 62.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2019,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2019,
+    "stat_category": "sacks",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2019,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 66.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 6.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 2.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 689.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 97.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 11.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 14,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 638.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 91.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 10.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 3.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 15,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2018,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2018,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2018,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2018,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2019,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2019,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2020,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 585.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 50.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 16,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2019,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2019,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2020,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 622.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 53.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 17,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2019,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2019,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2020,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 590.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 50.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 18,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2018,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2018,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2018,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2018,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2019,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2019,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2020,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 602.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 51.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 19,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2021,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2021,
+    "stat_category": "pass_yards",
+    "value": 911.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2021,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2021,
+    "stat_category": "interceptions_thrown",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 124.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 610.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2022,
+    "stat_category": "pass_att",
+    "value": 426.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2022,
+    "stat_category": "pass_yards",
+    "value": 2496.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2022,
+    "stat_category": "pass_td",
+    "value": 22.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2022,
+    "stat_category": "interceptions_thrown",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 20,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 245.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2020,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2020,
+    "stat_category": "pass_yards",
+    "value": 954.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2020,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2020,
+    "stat_category": "interceptions_thrown",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2020,
+    "stat_category": "rush_yards",
+    "value": 44.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2021,
+    "stat_category": "pass_att",
+    "value": 316.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2021,
+    "stat_category": "pass_yards",
+    "value": 1216.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2021,
+    "stat_category": "pass_td",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2021,
+    "stat_category": "interceptions_thrown",
+    "value": 7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 128.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 607.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2022,
+    "stat_category": "pass_att",
+    "value": 424.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2022,
+    "stat_category": "pass_yards",
+    "value": 2535.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2022,
+    "stat_category": "pass_td",
+    "value": 22.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2022,
+    "stat_category": "interceptions_thrown",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 21,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 87.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2021,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 22,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 537.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 22,
+    "season": 2021,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 777.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2022,
+    "stat_category": "rush_att",
+    "value": 241.0,
+    "team_share_pct": 52.1
+  },
+  {
+    "player_index": 22,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 1164.0,
+    "team_share_pct": 47.0
+  },
+  {
+    "player_index": 22,
+    "season": 2022,
+    "stat_category": "rush_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 38.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 22,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 353.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2020,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 23,
+    "season": 2020,
+    "stat_category": "rush_yards",
+    "value": 695.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 23,
+    "season": 2020,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 718.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2021,
+    "stat_category": "rush_att",
+    "value": 222.0,
+    "team_share_pct": 48.3
+  },
+  {
+    "player_index": 23,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 1211.0,
+    "team_share_pct": 43.6
+  },
+  {
+    "player_index": 23,
+    "season": 2021,
+    "stat_category": "rush_td",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 35.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 321.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 766.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2022,
+    "stat_category": "rush_att",
+    "value": 238.0,
+    "team_share_pct": 51.4
+  },
+  {
+    "player_index": 23,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 1132.0,
+    "team_share_pct": 46.4
+  },
+  {
+    "player_index": 23,
+    "season": 2022,
+    "stat_category": "rush_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 38.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 23,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 347.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 24,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 38.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 554.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 24,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 683.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 104.0,
+    "team_share_pct": 31.2
+  },
+  {
+    "player_index": 24,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 1107.0,
+    "team_share_pct": 31.2
+  },
+  {
+    "player_index": 24,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 793.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 122.0,
+    "team_share_pct": 37.2
+  },
+  {
+    "player_index": 24,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 80.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 24,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 1174.0,
+    "team_share_pct": 37.2
+  },
+  {
+    "player_index": 24,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2019,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 25,
+    "season": 2019,
+    "stat_category": "receptions",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2019,
+    "stat_category": "rec_yards",
+    "value": 481.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 25,
+    "season": 2019,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 59.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 25,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 486.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 25,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 65.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 25,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 553.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 25,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 707.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 108.0,
+    "team_share_pct": 32.6
+  },
+  {
+    "player_index": 25,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 77.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 25,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 1033.0,
+    "team_share_pct": 32.6
+  },
+  {
+    "player_index": 25,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2019,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 26,
+    "season": 2019,
+    "stat_category": "receptions",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2019,
+    "stat_category": "rec_yards",
+    "value": 559.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 26,
+    "season": 2019,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 59.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 26,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 475.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 26,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 672.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 102.0,
+    "team_share_pct": 30.6
+  },
+  {
+    "player_index": 26,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 73.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 1077.0,
+    "team_share_pct": 30.6
+  },
+  {
+    "player_index": 26,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 815.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 126.0,
+    "team_share_pct": 38.4
+  },
+  {
+    "player_index": 26,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 74.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 26,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 952.0,
+    "team_share_pct": 38.4
+  },
+  {
+    "player_index": 26,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 45.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 27,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 28.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 474.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 27,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 51.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 27,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 32.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 383.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 27,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 706.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 82.0,
+    "team_share_pct": 32.5
+  },
+  {
+    "player_index": 27,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 54.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 27,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 644.0,
+    "team_share_pct": 32.5
+  },
+  {
+    "player_index": 27,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 28,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 28,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 795.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 29,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 29,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 736.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 29,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 815.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 30,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 30,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 687.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 30,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 810.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 689.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 49.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 13.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 9.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 31,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 49.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2019,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2019,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2019,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 30.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 7.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 4.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2020,
+    "stat_category": "pressures",
+    "value": 26.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 32.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 7.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 5.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 29.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 568.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 41.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 7.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 32,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 2.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2020,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 7.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 3.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 603.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 43.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 11.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 33,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 42.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 648.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 92.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 3.7,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 34,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2019,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2019,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2019,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 62.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2020,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2020,
+    "stat_category": "sacks",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 66.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 6.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 2.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 674.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 95.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 11.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 3.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 35,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2020,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 740.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 62.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 777.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 65.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 36,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2020,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 726.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 61.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 852.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 71.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 37,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2019,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2019,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2019,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2019,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2020,
+    "stat_category": "tackles",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2020,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2020,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 584.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 50.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 38,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 657.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 55.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 39,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2021,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2021,
+    "stat_category": "pass_yards",
+    "value": 1011.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2021,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2021,
+    "stat_category": "interceptions_thrown",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 112.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2022,
+    "stat_category": "pass_att",
+    "value": 316.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2022,
+    "stat_category": "pass_yards",
+    "value": 1271.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2022,
+    "stat_category": "pass_td",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2022,
+    "stat_category": "interceptions_thrown",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": -12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 751.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2023,
+    "stat_category": "pass_att",
+    "value": 510.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2023,
+    "stat_category": "pass_yards",
+    "value": 3241.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2023,
+    "stat_category": "pass_td",
+    "value": 29.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2023,
+    "stat_category": "interceptions_thrown",
+    "value": 3.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 40,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 304.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2021,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2021,
+    "stat_category": "pass_yards",
+    "value": 906.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2021,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2021,
+    "stat_category": "interceptions_thrown",
+    "value": 7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 100.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 762.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2022,
+    "stat_category": "pass_att",
+    "value": 517.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2022,
+    "stat_category": "pass_yards",
+    "value": 3991.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2022,
+    "stat_category": "pass_td",
+    "value": 29.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2022,
+    "stat_category": "interceptions_thrown",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 381.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 788.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2023,
+    "stat_category": "pass_att",
+    "value": 533.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2023,
+    "stat_category": "pass_yards",
+    "value": 3988.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2023,
+    "stat_category": "pass_td",
+    "value": 30.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2023,
+    "stat_category": "interceptions_thrown",
+    "value": 3.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 41,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 432.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2021,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 42,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 721.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 42,
+    "season": 2021,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2022,
+    "stat_category": "rush_att",
+    "value": 131.0,
+    "team_share_pct": 29.6
+  },
+  {
+    "player_index": 42,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 643.0,
+    "team_share_pct": 27.0
+  },
+  {
+    "player_index": 42,
+    "season": 2022,
+    "stat_category": "rush_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 19.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 163.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 752.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2023,
+    "stat_category": "rush_att",
+    "value": 233.0,
+    "team_share_pct": 50.5
+  },
+  {
+    "player_index": 42,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 1057.0,
+    "team_share_pct": 45.6
+  },
+  {
+    "player_index": 42,
+    "season": 2023,
+    "stat_category": "rush_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 42,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 339.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2022,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 43,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 523.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 43,
+    "season": 2022,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 660.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2023,
+    "stat_category": "rush_att",
+    "value": 204.0,
+    "team_share_pct": 44.6
+  },
+  {
+    "player_index": 43,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 1200.0,
+    "team_share_pct": 40.3
+  },
+  {
+    "player_index": 43,
+    "season": 2023,
+    "stat_category": "rush_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 32.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 43,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 289.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 44,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 44,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 44,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 44,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 582.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 44,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 44,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 722.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 44,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 110.0,
+    "team_share_pct": 33.4
+  },
+  {
+    "player_index": 44,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 72.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 44,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 840.0,
+    "team_share_pct": 33.4
+  },
+  {
+    "player_index": 44,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 45,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 45,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 45,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 35.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 45,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 522.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 45,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 45,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 682.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 45,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 104.0,
+    "team_share_pct": 31.2
+  },
+  {
+    "player_index": 45,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 69.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 45,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 1168.0,
+    "team_share_pct": 31.2
+  },
+  {
+    "player_index": 45,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 46,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 35.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 425.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 46,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 742.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 114.0,
+    "team_share_pct": 34.4
+  },
+  {
+    "player_index": 46,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 74.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 1150.0,
+    "team_share_pct": 34.4
+  },
+  {
+    "player_index": 46,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 729.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 111.0,
+    "team_share_pct": 33.7
+  },
+  {
+    "player_index": 46,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 70.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 46,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 1114.0,
+    "team_share_pct": 33.7
+  },
+  {
+    "player_index": 46,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2020,
+    "stat_category": "targets",
+    "value": 45.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 47,
+    "season": 2020,
+    "stat_category": "receptions",
+    "value": 28.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2020,
+    "stat_category": "rec_yards",
+    "value": 515.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 47,
+    "season": 2020,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 49.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 47,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 516.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 47,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 47,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 421.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 47,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 624.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 73.0,
+    "team_share_pct": 28.0
+  },
+  {
+    "player_index": 47,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 51.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 47,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 742.0,
+    "team_share_pct": 28.0
+  },
+  {
+    "player_index": 47,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 48,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 48,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 48,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 720.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 49,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 49,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 49,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 675.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 50,
+    "season": 2020,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 50,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 50,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 50,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 736.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 7.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 4.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 642.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 46.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 12.7,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 8.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 51,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 45.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 7.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 4.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 710.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 51.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 14.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 9.7,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 52,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 51.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 2.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2021,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 716.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 51.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 14.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 6.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 52.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 773.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 55.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 15.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 7.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 53,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 6.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 2.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 627.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 89.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 10.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 3.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 54,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2021,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2021,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 6.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 2.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 665.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 94.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 11.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 3.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 55,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 684.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 58.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 56,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 579.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 49.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 57,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 710.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 60.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 58,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 684.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 58.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 59,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2022,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2022,
+    "stat_category": "pass_yards",
+    "value": 937.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2022,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2022,
+    "stat_category": "interceptions_thrown",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 104.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2023,
+    "stat_category": "pass_att",
+    "value": 316.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2023,
+    "stat_category": "pass_yards",
+    "value": 1129.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2023,
+    "stat_category": "pass_td",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2023,
+    "stat_category": "interceptions_thrown",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 22.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 660.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2024,
+    "stat_category": "pass_att",
+    "value": 456.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2024,
+    "stat_category": "pass_yards",
+    "value": 2884.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2024,
+    "stat_category": "pass_td",
+    "value": 25.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2024,
+    "stat_category": "interceptions_thrown",
+    "value": 7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 60,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 284.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2022,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2022,
+    "stat_category": "pass_yards",
+    "value": 1007.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2022,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2022,
+    "stat_category": "interceptions_thrown",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 40.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2023,
+    "stat_category": "pass_att",
+    "value": 316.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2023,
+    "stat_category": "pass_yards",
+    "value": 1266.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2023,
+    "stat_category": "pass_td",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2023,
+    "stat_category": "interceptions_thrown",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 78.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 685.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2024,
+    "stat_category": "pass_att",
+    "value": 471.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2024,
+    "stat_category": "pass_yards",
+    "value": 2724.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2024,
+    "stat_category": "pass_td",
+    "value": 26.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2024,
+    "stat_category": "interceptions_thrown",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 61,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2022,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 62,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 602.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 62,
+    "season": 2022,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2023,
+    "stat_category": "rush_att",
+    "value": 131.0,
+    "team_share_pct": 29.6
+  },
+  {
+    "player_index": 62,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 766.0,
+    "team_share_pct": 27.0
+  },
+  {
+    "player_index": 62,
+    "season": 2023,
+    "stat_category": "rush_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 19.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 163.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 711.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2024,
+    "stat_category": "rush_att",
+    "value": 220.0,
+    "team_share_pct": 47.9
+  },
+  {
+    "player_index": 62,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 981.0,
+    "team_share_pct": 43.2
+  },
+  {
+    "player_index": 62,
+    "season": 2024,
+    "stat_category": "rush_td",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 35.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 62,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 317.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2021,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 63,
+    "season": 2021,
+    "stat_category": "rush_yards",
+    "value": 709.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 63,
+    "season": 2021,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2022,
+    "stat_category": "rush_att",
+    "value": 126.0,
+    "team_share_pct": 28.5
+  },
+  {
+    "player_index": 63,
+    "season": 2022,
+    "stat_category": "rush_yards",
+    "value": 797.0,
+    "team_share_pct": 26.0
+  },
+  {
+    "player_index": 63,
+    "season": 2022,
+    "stat_category": "rush_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 18.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 154.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 723.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2023,
+    "stat_category": "rush_att",
+    "value": 224.0,
+    "team_share_pct": 48.7
+  },
+  {
+    "player_index": 63,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 1166.0,
+    "team_share_pct": 43.9
+  },
+  {
+    "player_index": 63,
+    "season": 2023,
+    "stat_category": "rush_td",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 35.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 324.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 782.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2024,
+    "stat_category": "rush_att",
+    "value": 242.0,
+    "team_share_pct": 52.4
+  },
+  {
+    "player_index": 63,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 1534.0,
+    "team_share_pct": 47.3
+  },
+  {
+    "player_index": 63,
+    "season": 2024,
+    "stat_category": "rush_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 63,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 356.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2021,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 64,
+    "season": 2021,
+    "stat_category": "receptions",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2021,
+    "stat_category": "rec_yards",
+    "value": 535.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 64,
+    "season": 2021,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 59.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 64,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 496.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 64,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 65.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 64,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 40.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 627.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 64,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 571.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 86.0,
+    "team_share_pct": 25.2
+  },
+  {
+    "player_index": 64,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 55.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 64,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 833.0,
+    "team_share_pct": 25.2
+  },
+  {
+    "player_index": 64,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 65,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 484.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 65,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 645.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 98.0,
+    "team_share_pct": 29.2
+  },
+  {
+    "player_index": 65,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 69.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 853.0,
+    "team_share_pct": 29.2
+  },
+  {
+    "player_index": 65,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 775.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 119.0,
+    "team_share_pct": 36.3
+  },
+  {
+    "player_index": 65,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 74.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 65,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 1238.0,
+    "team_share_pct": 36.3
+  },
+  {
+    "player_index": 65,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 66,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 524.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 66,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 728.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 111.0,
+    "team_share_pct": 33.7
+  },
+  {
+    "player_index": 66,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 75.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 913.0,
+    "team_share_pct": 33.7
+  },
+  {
+    "player_index": 66,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 773.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 119.0,
+    "team_share_pct": 36.2
+  },
+  {
+    "player_index": 66,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 80.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 66,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 1120.0,
+    "team_share_pct": 36.2
+  },
+  {
+    "player_index": 66,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 67,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 657.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 67,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 77.0,
+    "team_share_pct": 29.8
+  },
+  {
+    "player_index": 67,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 54.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 67,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 720.0,
+    "team_share_pct": 29.8
+  },
+  {
+    "player_index": 67,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 67,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 807.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 67,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 94.0,
+    "team_share_pct": 38.0
+  },
+  {
+    "player_index": 67,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 61.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 67,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 1015.0,
+    "team_share_pct": 38.0
+  },
+  {
+    "player_index": 67,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 68,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 68,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 68,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 574.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 69,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 69,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 653.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 70,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 70,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 70,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 673.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 7.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 4.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 685.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 49.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 13.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 9.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 71,
+    "season": 2024,
+    "stat_category": "pressures",
+    "value": 49.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 728.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 52.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 14.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 10.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 53.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 859.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 62.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 18.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 12.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 72,
+    "season": 2024,
+    "stat_category": "pressures",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 2.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 695.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 50.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 6.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 73,
+    "season": 2024,
+    "stat_category": "pressures",
+    "value": 50.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 6.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 2.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 691.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 98.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 11.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 74,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 6.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 2.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 599.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 86.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 3.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 75,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2021,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2021,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2021,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2021,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 567.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 48.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 76,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 658.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 56.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 748.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 63.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 77,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 713.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 60.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 755.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 63.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 78,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 605.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 51.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 79,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2023,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2023,
+    "stat_category": "pass_yards",
+    "value": 971.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2023,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2023,
+    "stat_category": "interceptions_thrown",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 93.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2024,
+    "stat_category": "pass_att",
+    "value": 316.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2024,
+    "stat_category": "pass_yards",
+    "value": 1147.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2024,
+    "stat_category": "pass_td",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2024,
+    "stat_category": "interceptions_thrown",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 38.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 699.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2025,
+    "stat_category": "pass_att",
+    "value": 479.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2025,
+    "stat_category": "pass_yards",
+    "value": 2837.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2025,
+    "stat_category": "pass_td",
+    "value": 26.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2025,
+    "stat_category": "interceptions_thrown",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 80,
+    "season": 2025,
+    "stat_category": "rush_yards",
+    "value": -15.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2023,
+    "stat_category": "pass_att",
+    "value": 285.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2023,
+    "stat_category": "pass_yards",
+    "value": 899.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2023,
+    "stat_category": "pass_td",
+    "value": 12.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2023,
+    "stat_category": "interceptions_thrown",
+    "value": 7.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 69.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2024,
+    "stat_category": "pass_att",
+    "value": 316.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2024,
+    "stat_category": "pass_yards",
+    "value": 1151.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2024,
+    "stat_category": "pass_td",
+    "value": 14.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2024,
+    "stat_category": "interceptions_thrown",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 40.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 726.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2025,
+    "stat_category": "pass_att",
+    "value": 495.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2025,
+    "stat_category": "pass_yards",
+    "value": 3124.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2025,
+    "stat_category": "pass_td",
+    "value": 28.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2025,
+    "stat_category": "interceptions_thrown",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 81,
+    "season": 2025,
+    "stat_category": "rush_yards",
+    "value": -25.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2024,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 82,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 623.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 82,
+    "season": 2024,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 583.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2025,
+    "stat_category": "rush_att",
+    "value": 180.0,
+    "team_share_pct": 39.6
+  },
+  {
+    "player_index": 82,
+    "season": 2025,
+    "stat_category": "rush_yards",
+    "value": 1120.0,
+    "team_share_pct": 35.9
+  },
+  {
+    "player_index": 82,
+    "season": 2025,
+    "stat_category": "rush_td",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2025,
+    "stat_category": "receptions",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 82,
+    "season": 2025,
+    "stat_category": "rec_yards",
+    "value": 248.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2023,
+    "stat_category": "rush_att",
+    "value": 115.0,
+    "team_share_pct": 26.2
+  },
+  {
+    "player_index": 83,
+    "season": 2023,
+    "stat_category": "rush_yards",
+    "value": 681.0,
+    "team_share_pct": 24.0
+  },
+  {
+    "player_index": 83,
+    "season": 2023,
+    "stat_category": "rush_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 16.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 135.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2024,
+    "stat_category": "rush_att",
+    "value": 131.0,
+    "team_share_pct": 29.6
+  },
+  {
+    "player_index": 83,
+    "season": 2024,
+    "stat_category": "rush_yards",
+    "value": 708.0,
+    "team_share_pct": 27.0
+  },
+  {
+    "player_index": 83,
+    "season": 2024,
+    "stat_category": "rush_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 19.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 163.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 654.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2025,
+    "stat_category": "rush_att",
+    "value": 202.0,
+    "team_share_pct": 44.2
+  },
+  {
+    "player_index": 83,
+    "season": 2025,
+    "stat_category": "rush_yards",
+    "value": 981.0,
+    "team_share_pct": 40.0
+  },
+  {
+    "player_index": 83,
+    "season": 2025,
+    "stat_category": "rush_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2025,
+    "stat_category": "receptions",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 83,
+    "season": 2025,
+    "stat_category": "rec_yards",
+    "value": 286.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 84,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 34.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 469.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 84,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 723.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 111.0,
+    "team_share_pct": 33.4
+  },
+  {
+    "player_index": 84,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 77.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 848.0,
+    "team_share_pct": 33.4
+  },
+  {
+    "player_index": 84,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 738.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2025,
+    "stat_category": "targets",
+    "value": 113.0,
+    "team_share_pct": 34.3
+  },
+  {
+    "player_index": 84,
+    "season": 2025,
+    "stat_category": "receptions",
+    "value": 79.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 84,
+    "season": 2025,
+    "stat_category": "rec_yards",
+    "value": 975.0,
+    "team_share_pct": 34.3
+  },
+  {
+    "player_index": 84,
+    "season": 2025,
+    "stat_category": "rec_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 85,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 35.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 435.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 85,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 62.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 85,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 43.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 689.0,
+    "team_share_pct": 17.4
+  },
+  {
+    "player_index": 85,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 725.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2025,
+    "stat_category": "targets",
+    "value": 111.0,
+    "team_share_pct": 33.5
+  },
+  {
+    "player_index": 85,
+    "season": 2025,
+    "stat_category": "receptions",
+    "value": 79.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 85,
+    "season": 2025,
+    "stat_category": "rec_yards",
+    "value": 952.0,
+    "team_share_pct": 33.5
+  },
+  {
+    "player_index": 85,
+    "season": 2025,
+    "stat_category": "rec_td",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 86,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 86,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 86,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 34.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 86,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 559.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 86,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 86,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 625.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 86,
+    "season": 2025,
+    "stat_category": "targets",
+    "value": 94.0,
+    "team_share_pct": 28.1
+  },
+  {
+    "player_index": 86,
+    "season": 2025,
+    "stat_category": "receptions",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 86,
+    "season": 2025,
+    "stat_category": "rec_yards",
+    "value": 778.0,
+    "team_share_pct": 28.1
+  },
+  {
+    "player_index": 86,
+    "season": 2025,
+    "stat_category": "rec_td",
+    "value": 8.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2022,
+    "stat_category": "targets",
+    "value": 45.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 87,
+    "season": 2022,
+    "stat_category": "receptions",
+    "value": 29.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2022,
+    "stat_category": "rec_yards",
+    "value": 434.0,
+    "team_share_pct": 14.5
+  },
+  {
+    "player_index": 87,
+    "season": 2022,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2023,
+    "stat_category": "targets",
+    "value": 49.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 87,
+    "season": 2023,
+    "stat_category": "receptions",
+    "value": 30.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2023,
+    "stat_category": "rec_yards",
+    "value": 454.0,
+    "team_share_pct": 16.4
+  },
+  {
+    "player_index": 87,
+    "season": 2023,
+    "stat_category": "rec_td",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2024,
+    "stat_category": "targets",
+    "value": 53.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 87,
+    "season": 2024,
+    "stat_category": "receptions",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2024,
+    "stat_category": "rec_yards",
+    "value": 439.0,
+    "team_share_pct": 18.3
+  },
+  {
+    "player_index": 87,
+    "season": 2024,
+    "stat_category": "rec_td",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 686.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2025,
+    "stat_category": "targets",
+    "value": 80.0,
+    "team_share_pct": 31.4
+  },
+  {
+    "player_index": 87,
+    "season": 2025,
+    "stat_category": "receptions",
+    "value": 52.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 87,
+    "season": 2025,
+    "stat_category": "rec_yards",
+    "value": 718.0,
+    "team_share_pct": 31.4
+  },
+  {
+    "player_index": 87,
+    "season": 2025,
+    "stat_category": "rec_td",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 88,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 88,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 88,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 88,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 747.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 89,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 89,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 687.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 90,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 90,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 90,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 90,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 602.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2022,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2022,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2022,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 30.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 7.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 4.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 26.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 745.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 53.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 15.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 10.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2024,
+    "stat_category": "pressures",
+    "value": 54.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 793.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2025,
+    "stat_category": "tfl",
+    "value": 16.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2025,
+    "stat_category": "sacks",
+    "value": 11.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 91,
+    "season": 2025,
+    "stat_category": "pressures",
+    "value": 58.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 4.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2024,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 749.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 54.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2025,
+    "stat_category": "tfl",
+    "value": 15.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2025,
+    "stat_category": "sacks",
+    "value": 10.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 92,
+    "season": 2025,
+    "stat_category": "pressures",
+    "value": 55.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 6.2,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 2.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2023,
+    "stat_category": "pressures",
+    "value": 23.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 31.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 7.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 3.4,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2024,
+    "stat_category": "pressures",
+    "value": 27.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 605.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 43.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2025,
+    "stat_category": "tfl",
+    "value": 11.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2025,
+    "stat_category": "sacks",
+    "value": 5.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 93,
+    "season": 2025,
+    "stat_category": "pressures",
+    "value": 42.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 64.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 6.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 2.1,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 643.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 91.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2025,
+    "stat_category": "tfl",
+    "value": 10.9,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2025,
+    "stat_category": "sacks",
+    "value": 3.7,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 94,
+    "season": 2025,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 57.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2023,
+    "stat_category": "tfl",
+    "value": 5.5,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2023,
+    "stat_category": "sacks",
+    "value": 1.8,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 728.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 102.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2024,
+    "stat_category": "tfl",
+    "value": 12.6,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2024,
+    "stat_category": "sacks",
+    "value": 4.3,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 835.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 116.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2025,
+    "stat_category": "tfl",
+    "value": 14.7,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2025,
+    "stat_category": "sacks",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 95,
+    "season": 2025,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2022,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2022,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2022,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2022,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 410.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 36.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 445.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 39.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 701.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 59.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2025,
+    "stat_category": "pass_breakups",
+    "value": 11.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 96,
+    "season": 2025,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 622.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 53.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2025,
+    "stat_category": "pass_breakups",
+    "value": 9.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 97,
+    "season": 2025,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 2.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 660.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 56.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2025,
+    "stat_category": "pass_breakups",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 98,
+    "season": 2025,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2023,
+    "stat_category": "snaps",
+    "value": 375.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2023,
+    "stat_category": "tackles",
+    "value": 33.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2023,
+    "stat_category": "pass_breakups",
+    "value": 5.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2023,
+    "stat_category": "interceptions",
+    "value": 0.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2024,
+    "stat_category": "snaps",
+    "value": 427.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2024,
+    "stat_category": "tackles",
+    "value": 37.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2024,
+    "stat_category": "pass_breakups",
+    "value": 6.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2024,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2025,
+    "stat_category": "snaps",
+    "value": 658.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2025,
+    "stat_category": "tackles",
+    "value": 56.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2025,
+    "stat_category": "pass_breakups",
+    "value": 10.0,
+    "team_share_pct": null
+  },
+  {
+    "player_index": 99,
+    "season": 2025,
+    "stat_category": "interceptions",
+    "value": 1.0,
+    "team_share_pct": null
+  }
+]

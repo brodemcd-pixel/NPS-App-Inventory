@@ -1,0 +1,4610 @@
+[
+  {
+    "school": "Alabama",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Hal Boggs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Hal Boggs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Hal Boggs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Hal Boggs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Hal Boggs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Lincoln Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Lincoln Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Lincoln Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Hal Veach",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Hal Veach",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Hal Veach",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Alabama",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Hobbs",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Hobbs",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Hobbs",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Hobbs",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Hobbs",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Hobbs",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Hobbs",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Mertz",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Mertz",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Joe Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Joe Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Joe Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Steve Pruitt",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Steve Pruitt",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Georgia",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Matt Eberle",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Pat Lubbock",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Pat Lubbock",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Pat Lubbock",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Pat Fitch",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Lincoln Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Lincoln Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Lincoln Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "LSU",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Tom Ingles",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Pat Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Steve Ingles",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Tennessee",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Rich Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Joe Drummond",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Joe Drummond",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Joe Drummond",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Joe Drummond",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Rich Rourke",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Rich Rourke",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Rich Rourke",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Rich Rourke",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Wade Boggs",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Kirby Garrison",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Norv Slocum",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Texas A&M",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Hal Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Lubbock",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Lubbock",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Lubbock",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Veach",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Veach",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Veach",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Veach",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Veach",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Lane Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Gus Ingles",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Matt Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Matt Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Matt Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Matt Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Matt Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Hal Aldrich",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Hal Aldrich",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Hal Aldrich",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Steve Jarrett",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Steve Jarrett",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Steve Jarrett",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Hal Garrison",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Hal Garrison",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Hal Garrison",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Hal Garrison",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Ohio State",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Hal Garrison",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Kirby Womack",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Greg Hobbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Greg Hobbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Greg Hobbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Greg Hobbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Greg Hobbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Wade Womack",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Wade Womack",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Wade Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Wade Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Michigan",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Wade Ingles",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Wade Ingles",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Wade Ingles",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Lane Tubbs",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Lane Tubbs",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Lane Tubbs",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Lane Tubbs",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Kirby Eberle",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Rourke",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Rourke",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Penn State",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Gus Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Garrison",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Mertz",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Mertz",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Rich Mertz",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Jarrett",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Jarrett",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Tom Jarrett",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Hal Jarrett",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Bill Lubbock",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Bill Lubbock",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Bill Lubbock",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Bill Lubbock",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Bill Lubbock",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Bill Lubbock",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Greg Eberle",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Wisconsin",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Kirby Lubbock",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Wade Osgood",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Wade Osgood",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Wade Osgood",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Hal Nolan",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Hal Nolan",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Tubbs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Tubbs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Tubbs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Pat Aldrich",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Pat Aldrich",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Pat Aldrich",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Pat Aldrich",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Norv Slocum",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Norv Slocum",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Rich Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Iowa",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Rich Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Joe Tubbs",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Joe Tubbs",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Matt Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Matt Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Matt Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Matt Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Matt Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Matt Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Kirby Fitch",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Kirby Fitch",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Kirby Fitch",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Texas",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Greg Mertz",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Greg Slocum",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Womack",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Womack",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Womack",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Womack",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Womack",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Joe Rourke",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Joe Rourke",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oklahoma",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Dan Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Steve Veach",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Steve Veach",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Steve Veach",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Steve Veach",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Pat Knox",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Pat Knox",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Kirby Pruitt",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Kirby Pruitt",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Texas Tech",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Lane Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Lane Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Ingles",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Ingles",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Ingles",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Ingles",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Ingles",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Ingles",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Norv Garrison",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Dan Tubbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Tom Womack",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Tom Womack",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Baylor",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Tom Womack",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Chip Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Chip Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Bill Womack",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Bill Womack",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Lincoln Garrison",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Lincoln Garrison",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Lincoln Garrison",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Slocum",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Rich Mertz",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Matt Eberle",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Matt Eberle",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Matt Eberle",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Matt Eberle",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Wade Nolan",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "TCU",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Wade Nolan",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Mike Osgood",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Mike Osgood",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Mike Osgood",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Bill Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Bill Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Bill Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Bill Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Bill Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Bill Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Hal Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Clemson",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Hal Jarrett",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Rich Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Rich Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Rich Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Bill Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Bill Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Bill Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Bill Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Steve Veach",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Florida State",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Norv Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Mike Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Gus Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Gus Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Gus Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Gus Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Gus Hobbs",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Miami",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Wade Drummond",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Chip Nolan",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Chip Nolan",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Chip Nolan",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Norv Ingles",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Wade Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Wade Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Pat Slocum",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Pat Slocum",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Pat Slocum",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Pat Slocum",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "North Carolina",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Steve Veach",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Pat Womack",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Pat Womack",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Pat Womack",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Pat Womack",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Pat Womack",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lane Ingles",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lane Ingles",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lane Ingles",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Garrison",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Garrison",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Garrison",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "USC",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Greg Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Chip Rourke",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Hal Tubbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Hal Tubbs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Hal Osgood",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Hal Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Hal Knox",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Wade Boggs",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Tom Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Pat Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Pat Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Lane Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Lane Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Lane Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Lane Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Lane Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Oregon",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Lane Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Dan Knox",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Joe Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Joe Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Washington",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Pat Jarrett",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Lubbock",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Tom Lubbock",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Lane Fitch",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Lane Fitch",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Joe Garrison",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Joe Garrison",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Joe Garrison",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Joe Garrison",
+    "coaching_tree": "McVay",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Steve Jarrett",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Steve Jarrett",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Greg Tubbs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Utah",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Mike Tubbs",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Joe Veach",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Gus Slocum",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Gus Slocum",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Gus Slocum",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Gus Slocum",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Gus Slocum",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Steve Rourke",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Steve Rourke",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Matt Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Matt Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Matt Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Matt Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Matt Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Boggs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Boggs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Cincinnati",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Mike Boggs",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Lincoln Lubbock",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Norv Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Norv Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Norv Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Norv Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Norv Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Norv Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Norv Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Houston",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Bill Eberle",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Rourke",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Rourke",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Rourke",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Rourke",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Norv Rourke",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Lincoln Boggs",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Spread/RPO",
+    "coordinator": "Wade Boggs",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Lane Mertz",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Tom Aldrich",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Tom Aldrich",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Tom Aldrich",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "UCF",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Kirby Slocum",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Tom Lubbock",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Tom Lubbock",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Tom Lubbock",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Tom Lubbock",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Wade Rourke",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Chip Ingles",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Chip Ingles",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Air Raid",
+    "coordinator": "Chip Ingles",
+    "coaching_tree": "Leach",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Mike Knox",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Memphis",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Matt Tubbs",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Power Run",
+    "coordinator": "Hal Eberle",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Bill Jarrett",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Steve Veach",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Press-Man Quarters",
+    "coordinator": "Chip Mertz",
+    "coaching_tree": "Belichick",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Kirby Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Kirby Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Kirby Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Kirby Osgood",
+    "coaching_tree": "Fangio",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Tom Womack",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Boise State",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Tom Womack",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Gus Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Gus Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Gus Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Gus Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Gus Carver",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Mertz",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Mertz",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Lincoln Mertz",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Lincoln Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Lincoln Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Lincoln Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-4 Two-Gap",
+    "coordinator": "Lincoln Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Joe Osgood",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Joe Osgood",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Joe Osgood",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "San Diego State",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Joe Osgood",
+    "coaching_tree": "Carroll",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Hal Fitch",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Rich Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Rich Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Option/Triple",
+    "coordinator": "Rich Drummond",
+    "coaching_tree": "Kelly",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "West Coast",
+    "coordinator": "Pat Eberle",
+    "coaching_tree": "Reid",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Joe Ingles",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Joe Ingles",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Vertical Play-Action",
+    "coordinator": "Joe Ingles",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "3-3-5 Stack",
+    "coordinator": "Rich Slocum",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Appalachian State",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-3 Attack Front",
+    "coordinator": "Rich Fitch",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2018,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2019,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2020,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2021,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2022,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2023,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2024,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2025,
+    "side": "offense",
+    "scheme_archetype": "Pro-Style",
+    "coordinator": "Wade Garrison",
+    "coaching_tree": "Shanahan",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2018,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Pat Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2019,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Pat Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2020,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Pat Mertz",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2021,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Kirby Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2022,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Kirby Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2023,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Kirby Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2024,
+    "side": "defense",
+    "scheme_archetype": "Zone-Match",
+    "coordinator": "Kirby Carver",
+    "coaching_tree": "Saban",
+    "notes": null
+  },
+  {
+    "school": "Coastal Carolina",
+    "year": 2025,
+    "side": "defense",
+    "scheme_archetype": "4-2-5 Nickel",
+    "coordinator": "Joe Carver",
+    "coaching_tree": "Belichick",
+    "notes": null
+  }
+]

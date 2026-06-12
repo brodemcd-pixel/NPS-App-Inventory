@@ -1,0 +1,1016 @@
+[
+  {
+    "player_index": 0,
+    "functional_role": "rhythm/timing",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 0,
+    "functional_role": "pocket passer",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 1,
+    "functional_role": "dual-threat",
+    "source": "derived",
+    "confidence": 0.94
+  },
+  {
+    "player_index": 1,
+    "functional_role": "RPO operator",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 2,
+    "functional_role": "gap runner",
+    "source": "derived",
+    "confidence": 0.9
+  },
+  {
+    "player_index": 2,
+    "functional_role": "zone runner",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 3,
+    "functional_role": "gap runner",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 4,
+    "functional_role": "screen-game target",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 4,
+    "functional_role": "slot",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 5,
+    "functional_role": "screen-game target",
+    "source": "derived",
+    "confidence": 0.87
+  },
+  {
+    "player_index": 5,
+    "functional_role": "slot",
+    "source": "derived",
+    "confidence": 0.94
+  },
+  {
+    "player_index": 6,
+    "functional_role": "deep threat",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 6,
+    "functional_role": "slot",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 7,
+    "functional_role": "big slot",
+    "source": "derived",
+    "confidence": 0.71
+  },
+  {
+    "player_index": 8,
+    "functional_role": "power/gap blocker",
+    "source": "derived",
+    "confidence": 0.92
+  },
+  {
+    "player_index": 8,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.75
+  },
+  {
+    "player_index": 9,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 10,
+    "functional_role": "power/gap blocker",
+    "source": "derived",
+    "confidence": 0.94
+  },
+  {
+    "player_index": 10,
+    "functional_role": "zone blocker",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 11,
+    "functional_role": "wide-9 specialist",
+    "source": "derived",
+    "confidence": 0.7
+  },
+  {
+    "player_index": 12,
+    "functional_role": "edge setter",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 12,
+    "functional_role": "speed rusher",
+    "source": "derived",
+    "confidence": 0.7
+  },
+  {
+    "player_index": 13,
+    "functional_role": "three-tech penetrator",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 13,
+    "functional_role": "two-gap nose",
+    "source": "derived",
+    "confidence": 0.76
+  },
+  {
+    "player_index": 14,
+    "functional_role": "coverage backer",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 14,
+    "functional_role": "run-and-chase",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 15,
+    "functional_role": "overhang",
+    "source": "derived",
+    "confidence": 0.75
+  },
+  {
+    "player_index": 15,
+    "functional_role": "blitzer",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 16,
+    "functional_role": "off-zone corner",
+    "source": "derived",
+    "confidence": 0.9
+  },
+  {
+    "player_index": 16,
+    "functional_role": "press-man corner",
+    "source": "derived",
+    "confidence": 0.73
+  },
+  {
+    "player_index": 17,
+    "functional_role": "press-man corner",
+    "source": "derived",
+    "confidence": 0.7
+  },
+  {
+    "player_index": 17,
+    "functional_role": "off-zone corner",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 18,
+    "functional_role": "single-high free",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 19,
+    "functional_role": "box safety",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 20,
+    "functional_role": "rhythm/timing",
+    "source": "derived",
+    "confidence": 0.91
+  },
+  {
+    "player_index": 20,
+    "functional_role": "RPO operator",
+    "source": "derived",
+    "confidence": 0.79
+  },
+  {
+    "player_index": 21,
+    "functional_role": "dual-threat",
+    "source": "derived",
+    "confidence": 0.87
+  },
+  {
+    "player_index": 21,
+    "functional_role": "rhythm/timing",
+    "source": "derived",
+    "confidence": 0.9
+  },
+  {
+    "player_index": 22,
+    "functional_role": "satellite back",
+    "source": "derived",
+    "confidence": 0.83
+  },
+  {
+    "player_index": 22,
+    "functional_role": "three-down back",
+    "source": "derived",
+    "confidence": 0.8
+  },
+  {
+    "player_index": 23,
+    "functional_role": "zone runner",
+    "source": "derived",
+    "confidence": 0.71
+  },
+  {
+    "player_index": 23,
+    "functional_role": "three-down back",
+    "source": "derived",
+    "confidence": 0.91
+  },
+  {
+    "player_index": 24,
+    "functional_role": "screen-game target",
+    "source": "derived",
+    "confidence": 0.81
+  },
+  {
+    "player_index": 24,
+    "functional_role": "Z receiver",
+    "source": "derived",
+    "confidence": 0.88
+  },
+  {
+    "player_index": 25,
+    "functional_role": "X receiver",
+    "source": "derived",
+    "confidence": 0.84
+  },
+  {
+    "player_index": 26,
+    "functional_role": "Z receiver",
+    "source": "derived",
+    "confidence": 0.71
+  },
+  {
+    "player_index": 26,
+    "functional_role": "deep threat",
+    "source": "derived",
+    "confidence": 0.86
+  },
+  {
+    "player_index": 27,
+    "functional_role": "inline Y",
+    "source": "derived",
+    "confidence": 0.9
+  },
+  {
+    "player_index": 27,
+    "functional_role": "big slot",
+    "source": "derived",
+    "confidence": 0.88
+  },
+  {
+    "player_index": 28,
+    "functional_role": "zone blocker",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 29,
+    "functional_role": "zone blocker",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 29,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.74
+  },
+  {
+    "player_index": 30,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.88
+  },
+  {
+    "player_index": 31,
+    "functional_role": "edge setter",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 31,
+    "functional_role": "power rusher",
+    "source": "derived",
+    "confidence": 0.88
+  },
+  {
+    "player_index": 32,
+    "functional_role": "speed rusher",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 32,
+    "functional_role": "edge setter",
+    "source": "derived",
+    "confidence": 0.73
+  },
+  {
+    "player_index": 33,
+    "functional_role": "three-tech penetrator",
+    "source": "derived",
+    "confidence": 0.76
+  },
+  {
+    "player_index": 33,
+    "functional_role": "gap shooter",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 34,
+    "functional_role": "blitzer",
+    "source": "derived",
+    "confidence": 0.76
+  },
+  {
+    "player_index": 34,
+    "functional_role": "coverage backer",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 35,
+    "functional_role": "overhang",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 35,
+    "functional_role": "blitzer",
+    "source": "derived",
+    "confidence": 0.83
+  },
+  {
+    "player_index": 36,
+    "functional_role": "nickel defender",
+    "source": "derived",
+    "confidence": 0.79
+  },
+  {
+    "player_index": 37,
+    "functional_role": "nickel defender",
+    "source": "derived",
+    "confidence": 0.73
+  },
+  {
+    "player_index": 37,
+    "functional_role": "press-man corner",
+    "source": "derived",
+    "confidence": 0.86
+  },
+  {
+    "player_index": 38,
+    "functional_role": "box safety",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 38,
+    "functional_role": "single-high free",
+    "source": "derived",
+    "confidence": 0.81
+  },
+  {
+    "player_index": 39,
+    "functional_role": "single-high free",
+    "source": "derived",
+    "confidence": 0.81
+  },
+  {
+    "player_index": 40,
+    "functional_role": "dual-threat",
+    "source": "derived",
+    "confidence": 0.9
+  },
+  {
+    "player_index": 41,
+    "functional_role": "rhythm/timing",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 41,
+    "functional_role": "pocket passer",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 42,
+    "functional_role": "satellite back",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 42,
+    "functional_role": "zone runner",
+    "source": "derived",
+    "confidence": 0.86
+  },
+  {
+    "player_index": 43,
+    "functional_role": "satellite back",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 43,
+    "functional_role": "zone runner",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 44,
+    "functional_role": "slot",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 44,
+    "functional_role": "Z receiver",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 45,
+    "functional_role": "deep threat",
+    "source": "derived",
+    "confidence": 0.71
+  },
+  {
+    "player_index": 46,
+    "functional_role": "deep threat",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 47,
+    "functional_role": "inline Y",
+    "source": "derived",
+    "confidence": 0.93
+  },
+  {
+    "player_index": 47,
+    "functional_role": "move/F tight end",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 48,
+    "functional_role": "zone blocker",
+    "source": "derived",
+    "confidence": 0.78
+  },
+  {
+    "player_index": 48,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.87
+  },
+  {
+    "player_index": 49,
+    "functional_role": "power/gap blocker",
+    "source": "derived",
+    "confidence": 0.88
+  },
+  {
+    "player_index": 49,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.89
+  },
+  {
+    "player_index": 50,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 51,
+    "functional_role": "power rusher",
+    "source": "derived",
+    "confidence": 0.84
+  },
+  {
+    "player_index": 51,
+    "functional_role": "edge setter",
+    "source": "derived",
+    "confidence": 0.76
+  },
+  {
+    "player_index": 52,
+    "functional_role": "wide-9 specialist",
+    "source": "derived",
+    "confidence": 0.84
+  },
+  {
+    "player_index": 52,
+    "functional_role": "edge setter",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 53,
+    "functional_role": "two-gap nose",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 53,
+    "functional_role": "three-tech penetrator",
+    "source": "derived",
+    "confidence": 0.84
+  },
+  {
+    "player_index": 54,
+    "functional_role": "blitzer",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 54,
+    "functional_role": "coverage backer",
+    "source": "derived",
+    "confidence": 0.92
+  },
+  {
+    "player_index": 55,
+    "functional_role": "blitzer",
+    "source": "derived",
+    "confidence": 0.79
+  },
+  {
+    "player_index": 56,
+    "functional_role": "press-man corner",
+    "source": "derived",
+    "confidence": 0.88
+  },
+  {
+    "player_index": 57,
+    "functional_role": "off-zone corner",
+    "source": "derived",
+    "confidence": 0.73
+  },
+  {
+    "player_index": 58,
+    "functional_role": "split-safety",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 58,
+    "functional_role": "box safety",
+    "source": "derived",
+    "confidence": 0.79
+  },
+  {
+    "player_index": 59,
+    "functional_role": "box safety",
+    "source": "derived",
+    "confidence": 0.93
+  },
+  {
+    "player_index": 59,
+    "functional_role": "split-safety",
+    "source": "derived",
+    "confidence": 0.89
+  },
+  {
+    "player_index": 60,
+    "functional_role": "pocket passer",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 60,
+    "functional_role": "rhythm/timing",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 61,
+    "functional_role": "RPO operator",
+    "source": "derived",
+    "confidence": 0.94
+  },
+  {
+    "player_index": 61,
+    "functional_role": "pocket passer",
+    "source": "derived",
+    "confidence": 0.89
+  },
+  {
+    "player_index": 62,
+    "functional_role": "three-down back",
+    "source": "derived",
+    "confidence": 0.9
+  },
+  {
+    "player_index": 62,
+    "functional_role": "zone runner",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 63,
+    "functional_role": "satellite back",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 63,
+    "functional_role": "zone runner",
+    "source": "derived",
+    "confidence": 0.89
+  },
+  {
+    "player_index": 64,
+    "functional_role": "slot",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 64,
+    "functional_role": "X receiver",
+    "source": "derived",
+    "confidence": 0.92
+  },
+  {
+    "player_index": 65,
+    "functional_role": "screen-game target",
+    "source": "derived",
+    "confidence": 0.94
+  },
+  {
+    "player_index": 65,
+    "functional_role": "deep threat",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 66,
+    "functional_role": "screen-game target",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 67,
+    "functional_role": "move/F tight end",
+    "source": "derived",
+    "confidence": 0.81
+  },
+  {
+    "player_index": 67,
+    "functional_role": "big slot",
+    "source": "derived",
+    "confidence": 0.89
+  },
+  {
+    "player_index": 68,
+    "functional_role": "power/gap blocker",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 68,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 69,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 69,
+    "functional_role": "power/gap blocker",
+    "source": "derived",
+    "confidence": 0.87
+  },
+  {
+    "player_index": 70,
+    "functional_role": "power/gap blocker",
+    "source": "derived",
+    "confidence": 0.72
+  },
+  {
+    "player_index": 71,
+    "functional_role": "power rusher",
+    "source": "derived",
+    "confidence": 0.77
+  },
+  {
+    "player_index": 71,
+    "functional_role": "wide-9 specialist",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 72,
+    "functional_role": "power rusher",
+    "source": "derived",
+    "confidence": 0.83
+  },
+  {
+    "player_index": 72,
+    "functional_role": "wide-9 specialist",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 73,
+    "functional_role": "two-gap nose",
+    "source": "derived",
+    "confidence": 0.93
+  },
+  {
+    "player_index": 73,
+    "functional_role": "three-tech penetrator",
+    "source": "derived",
+    "confidence": 0.71
+  },
+  {
+    "player_index": 74,
+    "functional_role": "overhang",
+    "source": "derived",
+    "confidence": 0.73
+  },
+  {
+    "player_index": 74,
+    "functional_role": "coverage backer",
+    "source": "derived",
+    "confidence": 0.95
+  },
+  {
+    "player_index": 75,
+    "functional_role": "run-and-chase",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 76,
+    "functional_role": "press-man corner",
+    "source": "derived",
+    "confidence": 0.84
+  },
+  {
+    "player_index": 77,
+    "functional_role": "press-man corner",
+    "source": "derived",
+    "confidence": 0.77
+  },
+  {
+    "player_index": 78,
+    "functional_role": "split-safety",
+    "source": "derived",
+    "confidence": 0.9
+  },
+  {
+    "player_index": 78,
+    "functional_role": "box safety",
+    "source": "derived",
+    "confidence": 0.92
+  },
+  {
+    "player_index": 79,
+    "functional_role": "box safety",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 80,
+    "functional_role": "rhythm/timing",
+    "source": "derived",
+    "confidence": 0.83
+  },
+  {
+    "player_index": 81,
+    "functional_role": "rhythm/timing",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 81,
+    "functional_role": "RPO operator",
+    "source": "derived",
+    "confidence": 0.91
+  },
+  {
+    "player_index": 82,
+    "functional_role": "satellite back",
+    "source": "derived",
+    "confidence": 0.89
+  },
+  {
+    "player_index": 82,
+    "functional_role": "zone runner",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 83,
+    "functional_role": "gap runner",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 84,
+    "functional_role": "Z receiver",
+    "source": "derived",
+    "confidence": 0.8
+  },
+  {
+    "player_index": 84,
+    "functional_role": "screen-game target",
+    "source": "derived",
+    "confidence": 0.87
+  },
+  {
+    "player_index": 85,
+    "functional_role": "Z receiver",
+    "source": "derived",
+    "confidence": 0.74
+  },
+  {
+    "player_index": 85,
+    "functional_role": "slot",
+    "source": "derived",
+    "confidence": 0.84
+  },
+  {
+    "player_index": 86,
+    "functional_role": "deep threat",
+    "source": "derived",
+    "confidence": 0.84
+  },
+  {
+    "player_index": 86,
+    "functional_role": "motion/jet specialist",
+    "source": "derived",
+    "confidence": 0.93
+  },
+  {
+    "player_index": 87,
+    "functional_role": "inline Y",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 88,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.95
+  },
+  {
+    "player_index": 88,
+    "functional_role": "power/gap blocker",
+    "source": "derived",
+    "confidence": 0.74
+  },
+  {
+    "player_index": 89,
+    "functional_role": "pass-set technician",
+    "source": "derived",
+    "confidence": 0.71
+  },
+  {
+    "player_index": 90,
+    "functional_role": "zone blocker",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 91,
+    "functional_role": "power rusher",
+    "source": "derived",
+    "confidence": 0.82
+  },
+  {
+    "player_index": 91,
+    "functional_role": "edge setter",
+    "source": "derived",
+    "confidence": 0.74
+  },
+  {
+    "player_index": 92,
+    "functional_role": "speed rusher",
+    "source": "derived",
+    "confidence": 0.73
+  },
+  {
+    "player_index": 92,
+    "functional_role": "power rusher",
+    "source": "derived",
+    "confidence": 0.78
+  },
+  {
+    "player_index": 93,
+    "functional_role": "two-gap nose",
+    "source": "derived",
+    "confidence": 0.78
+  },
+  {
+    "player_index": 93,
+    "functional_role": "gap shooter",
+    "source": "derived",
+    "confidence": 0.73
+  },
+  {
+    "player_index": 94,
+    "functional_role": "overhang",
+    "source": "derived",
+    "confidence": 0.78
+  },
+  {
+    "player_index": 95,
+    "functional_role": "coverage backer",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 95,
+    "functional_role": "blitzer",
+    "source": "derived",
+    "confidence": 0.78
+  },
+  {
+    "player_index": 96,
+    "functional_role": "nickel defender",
+    "source": "derived",
+    "confidence": 0.93
+  },
+  {
+    "player_index": 96,
+    "functional_role": "off-zone corner",
+    "source": "derived",
+    "confidence": 0.86
+  },
+  {
+    "player_index": 97,
+    "functional_role": "off-zone corner",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 97,
+    "functional_role": "press-man corner",
+    "source": "derived",
+    "confidence": 0.8
+  },
+  {
+    "player_index": 98,
+    "functional_role": "single-high free",
+    "source": "manual",
+    "confidence": 1.0
+  },
+  {
+    "player_index": 99,
+    "functional_role": "box safety",
+    "source": "derived",
+    "confidence": 0.85
+  },
+  {
+    "player_index": 99,
+    "functional_role": "split-safety",
+    "source": "manual",
+    "confidence": 1.0
+  }
+]
