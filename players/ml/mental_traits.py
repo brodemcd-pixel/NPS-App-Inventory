@@ -69,7 +69,8 @@ POSITIVE_WORDS = {
     "elite", "outstanding", "excellent", "exceptional", "impressive", "plus", "strong",
     "advanced", "rare", "high-level", "consistently", "best", "smooth", "natural",
     "reliable", "sharp", "crisp", "efficient", "polished", "high", "great", "good",
-    "quick", "fast", "commands", "wins", "thrives",
+    "quick", "fast", "commands", "wins", "thrives", "relentless", "nonstop",
+    "unflappable", "trusted", "advanced",
 }
 
 NEGATIVE_WORDS = {

@@ -23,7 +23,8 @@ frontend/   Next.js 14 + React 18 + Tailwind 3 — table, profile, compare, watc
             UMAP map, usage & model-accuracy dashboards, streaming chat panel
 backend/    FastAPI (Python 3.11, SQLAlchemy 2.0 async, asyncpg) — REST API, SSE chat,
             assistant tool registry (12 operations), similarity engine, exports,
-            Slack bot (Bolt), Alembic migrations
+            Slack bot (Bolt); schema created from SQLAlchemy models by the seeder
+            (models are Alembic-ready once a migration baseline is wanted)
 ml/         Embedding pipeline (e5-small or deterministic lite encoder), UMAP/PCA
             projection, mental-trait NLP extraction, FSM back-test evaluation
 data/       Synthetic seed generator + generated seed JSON
